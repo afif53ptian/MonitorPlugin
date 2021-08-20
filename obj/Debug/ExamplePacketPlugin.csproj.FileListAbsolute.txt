@@ -1,0 +1,24 @@
+A:\Code\Projects\Bitbucket\Grimoire\ExamplePacketPlugin\bin\Debug\ExamplePacketPlugin.dll
+A:\Code\Projects\Bitbucket\Grimoire\ExamplePacketPlugin\bin\Debug\ExamplePacketPlugin.pdb
+A:\Code\Projects\Bitbucket\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.csprojResolveAssemblyReference.cache
+A:\Code\Projects\Bitbucket\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.Main.resources
+A:\Code\Projects\Bitbucket\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.csproj.GenerateResource.Cache
+A:\Code\Projects\Bitbucket\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.csproj.CoreCompileInputs.cache
+A:\Code\Projects\Bitbucket\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.dll
+A:\Code\Projects\Bitbucket\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.pdb
+A:\Code\Projects\GitHub\Grimoire\ExamplePacketPlugin\bin\Debug\ExamplePacketPlugin.dll
+A:\Code\Projects\GitHub\Grimoire\ExamplePacketPlugin\bin\Debug\ExamplePacketPlugin.pdb
+A:\Code\Projects\GitHub\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.csprojResolveAssemblyReference.cache
+A:\Code\Projects\GitHub\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.Main.resources
+A:\Code\Projects\GitHub\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.csproj.GenerateResource.Cache
+A:\Code\Projects\GitHub\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.csproj.CoreCompileInputs.cache
+A:\Code\Projects\GitHub\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.dll
+A:\Code\Projects\GitHub\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.pdb
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\ExamplePacketPlugin\bin\Debug\ExamplePacketPlugin.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\ExamplePacketPlugin\bin\Debug\ExamplePacketPlugin.pdb
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.csprojAssemblyReference.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.Main.resources
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.csproj.GenerateResource.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.csproj.CoreCompileInputs.cache
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimoire\ExamplePacketPlugin\obj\Debug\ExamplePacketPlugin.pdb
