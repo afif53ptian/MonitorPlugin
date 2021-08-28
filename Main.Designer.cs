@@ -529,7 +529,7 @@
             this.tbDropsLog.Name = "tbDropsLog";
             this.tbDropsLog.ReadOnly = true;
             this.tbDropsLog.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
-            this.tbDropsLog.Size = new System.Drawing.Size(211, 109);
+            this.tbDropsLog.Size = new System.Drawing.Size(186, 65);
             this.tbDropsLog.TabIndex = 36;
             this.tbDropsLog.TextChanged += new System.EventHandler(this.tbDropsLog_TextChanged);
             // 
@@ -604,7 +604,7 @@
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Name = "Main";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "Bot Monitor";
+            this.Text = "Bot Monitor 1.1";
             this.TopMost = true;
             this.FormClosing += new System.Windows.Forms.FormClosingEventHandler(this.Main_FormClosing);
             this.Load += new System.EventHandler(this.Main_Load);

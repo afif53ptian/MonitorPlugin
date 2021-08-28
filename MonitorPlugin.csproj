@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{CD76CF82-3C25-4210-A447-451406376C93}</ProjectGuid>
+    <ProjectGuid>{054B1091-7620-4B70-B2A7-47975300D01F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExamplePacketPlugin</RootNamespace>
-    <AssemblyName>ExamplePacketPlugin</AssemblyName>
+    <RootNamespace>BotMonitorPlugin</RootNamespace>
+    <AssemblyName>BotMonitor_1.1</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
