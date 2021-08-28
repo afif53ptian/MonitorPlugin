@@ -208,7 +208,7 @@ namespace ExamplePacketPlugin
 
                     // monitor info
                     string username = Grimoire.Tools.Flash.Call<string>("GetUsername", new string[0]).ToUpper() ?? "(undetected)";
-                    string isBotting = Grimoire.Botting.OptionsManager.IsRunning ? "Yes" : "No";
+                    string isBotting = Grimoire.UI.BotManager.Instance.ActiveBotEngine.IsRunning ? "Yes" : "No";
                     string isLogin = Player.IsLoggedIn ? "Yes" : "No";
 
                     string state = Player.IsLoggedIn ? Player.CurrentState.ToString() : "-";

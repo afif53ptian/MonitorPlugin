@@ -14,10 +14,6 @@ C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\obj\Debug\
 C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\obj\Debug\ExamplePacketPlugin.Main.resources
 C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\obj\Debug\MonitorPlugin.csproj.GenerateResource.cache
 C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\obj\Debug\MonitorPlugin.csproj.CoreCompileInputs.cache
-C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\obj\Debug\ExamplePacketPlugin.dll
-C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\obj\Debug\ExamplePacketPlugin.pdb
-C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\ExamplePacketPlugin.dll
-C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\ExamplePacketPlugin.pdb
 C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\DarkUI.dll
 C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\FlatTabControl.dll
 C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\Grimoire.exe
@@ -34,3 +30,7 @@ C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\
 C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\HtmlAgilityPack.xml
 C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\EasyHook.xml
 C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\obj\Debug\MonitorPlugin.csproj.CopyComplete
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\Monitor_1.1.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\bin\Debug\Monitor_1.1.pdb
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\obj\Debug\Monitor_1.1.dll
+C:\Users\Oni Ahmad\Desktop\refresh\Grim Plugin\Grimlite\MonitorPlugin\obj\Debug\Monitor_1.1.pdb
